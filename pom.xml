@@ -6,7 +6,7 @@
   <groupId>com.sriharsha</groupId>
   <artifactId>maven-web-project</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0.5 - release</version>
+  <version>1.0.0.6 - release</version>
   <name>Maven Web Project</name>
   <description>Maven Web Project for Java Project</description>
 
